@@ -8,6 +8,7 @@ Many of the ideas, text, and code are mine. However, I have used ChatGPT to also
 Create a virtual environment
 ```bash
 python3 -m venv venv
+```
 
 Activate the environment and install packages
 ```bash
