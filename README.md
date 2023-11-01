@@ -10,15 +10,14 @@ Create a virtual environment
 python3 -m venv venv
 ```
 
-Activate the environment and install packages
+Activate the environment
 ```bash
 source venv/bin/activate
-pip install -r requirements.txt
 ```
 
-Deactivate
+Install packages
 ```bash
-deactivate
+pip install -r requirements.txt
 ```
 
 Start Jupyter Labs
@@ -26,5 +25,17 @@ Start Jupyter Labs
 jupyter lab
 ```
 
+Deactivate
+```bash
+deactivate
+```
 
 # ml-notebooks
+
+- [Introduction](Introduction.ipynb) - building a neural network to do addition of two digits
+
+
+
+
+
+- [Concepts](Concepts.ipynb) - a place where concepts are maintained that are important to machine learning
