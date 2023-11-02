@@ -32,10 +32,9 @@ deactivate
 
 # ml-notebooks
 
-- [Introduction](Introduction.ipynb) - building a neural network to do addition of two digits
+- [Introduction](000-Introduction.ipynb) - building a neural network to do addition of two digits
+- [Exploring the Adder Model Part 1](001-ExploringAdderModelPart1.ipynb) - Introduces an intuition for why addition can work and hyperparameter search
+  
 
-
-
-
-
+### Extras
 - [Concepts](Concepts.ipynb) - a place where concepts are maintained that are important to machine learning
